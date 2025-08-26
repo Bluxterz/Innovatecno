@@ -21,7 +21,7 @@ export default function Header() {
           </div>
         </Link>
         <nav className="hidden md:flex space-x-6">
-          <Link href="#servicios" className="text-gray-700 hover:text-orange-500 transition-colors">
+          <Link href="servicios" className="text-gray-700 hover:text-orange-500 transition-colors">
             Servicios
           </Link>
           <Link href="#experiencia" className="text-gray-700 hover:text-orange-500 transition-colors">
@@ -35,7 +35,7 @@ export default function Header() {
           <div className="hidden lg:flex items-center gap-4 text-sm text-gray-600">
             <div className="flex items-center gap-2">
               <Phone className="h-4 w-4 text-orange-500" />
-              <span>+569 9949 3661</span>
+              <span>+56 9 2973 8623</span>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-orange-500" />

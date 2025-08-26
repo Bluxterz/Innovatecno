@@ -37,17 +37,14 @@ export default function Home() {
   ];
 
   const stats = [
-    { number: "5+", label: "Años de Experiencia" },
+    { number: "11+", label: "Años de Experiencia" },
     { number: "100+", label: "Proyectos Completados" },
-    { number: "14", label: "Profesionales" }
+    { number: "2013", label: "Fundada en" }
   ];
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Header */}
-     
-
-      {/* Hero Section */}
+ 
       <Header />
 
       <Hero />
@@ -103,7 +100,7 @@ export default function Home() {
             <div className="text-center">
               <Phone className="h-8 w-8 text-secondary mx-auto mb-4" />
               <h4 className="text-lg font-semibold mb-2">Teléfono</h4>
-              <p className="text-muted-foreground">+569 9949 3661</p>
+              <p className="text-muted-foreground">+56 9 2973 8623</p>
             </div>
             <div className="text-center">
               <Mail className="h-8 w-8 text-secondary mx-auto mb-4" />
