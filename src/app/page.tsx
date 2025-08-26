@@ -1,6 +1,6 @@
 import Header from "@/components/custom/Header";
 import Hero from "@/components/custom/Hero";
-import { Phone, Mail, Clock, MapPin, Shield, Laptop, Camera, Monitor, Users, BookOpen, Menu } from "lucide-react";
+import { Phone, Mail, Clock, MapPin, Shield, Laptop, Camera, Monitor, Users, BookOpen } from "lucide-react";
 
 export default function Home() {
   const services = [
