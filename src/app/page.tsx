@@ -14,6 +14,7 @@ export default function Home() {
       title: "Venta de Software",
       description: "Soluciones de software empresarial adaptadas a sus necesidades"
     },
+    
     {
       icon: Monitor,
       title: "Infraestructura TI",
