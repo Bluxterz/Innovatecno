@@ -206,7 +206,7 @@ export default function Servicios() {
                         </div>
                         <div className="flex items-center gap-2">
                             <Mail className="h-5 w-5 text-orange-500" />
-                            <span className="text-lg">rodrigo.viera@innovatecno.cl</span>
+                            <span className="text-lg">info@innovatecno.cl</span>
                         </div>
                     </div>
                     
@@ -226,6 +226,7 @@ export default function Servicios() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
                     <p className="mb-4">&copy; 2024 InnovaTecno SpA. Todos los derechos reservados.</p>
                     <p className="text-sm opacity-80">Empresa chilena especializada en servicios de tecnología e infraestructura TI</p>
+                    <p className="text-sm opacity-80 mt-2">Desarrollado por <a href="https://bluxterz.cl" target="_blank" rel="noopener noreferrer" className="hover:underline">@bluxterz</a></p>
                 </div>
             </footer>
         </div>

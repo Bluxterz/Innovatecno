@@ -39,7 +39,7 @@ export default function Header() {
             </div>
             <div className="flex items-center gap-2">
               <Mail className="h-4 w-4 text-orange-500" />
-              <span>rodrigo.viera@innovatecno.cl</span>
+              <span>info@innovatecno.cl</span>
             </div>
           </div>
           <Button className="bg-orange-500 hover:bg-orange-600 text-white">Cotizar</Button>

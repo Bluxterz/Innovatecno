@@ -105,7 +105,7 @@ export default function Home() {
             <div className="text-center">
               <Mail className="h-8 w-8 text-secondary mx-auto mb-4" />
               <h4 className="text-lg font-semibold mb-2">Email</h4>
-              <p className="text-muted-foreground">rodrigo.viera@innovatecno.cl</p>
+              <p className="text-muted-foreground">info@innovatecno.cl</p>
             </div>
             <div className="text-center">
               <MapPin className="h-8 w-8 text-secondary mx-auto mb-4" />
@@ -126,6 +126,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="mb-4">&copy; 2024 InnovaTecno SpA. Todos los derechos reservados.</p>
           <p className="text-sm opacity-80">Empresa chilena especializada en servicios de tecnología e infraestructura TI</p>
+          <p className="text-sm opacity-80 mt-2">Desarrollado por <a href="https://bluxterz.cl" target="_blank" rel="noopener noreferrer" className="hover:underline">@bluxterz</a></p>
         </div>
       </footer>
     </div>
